@@ -1,0 +1,12 @@
+{
+    "mongodb": {
+        "connectionString": "mongodb+srv://krishna:krishna@majorproject1.rjlv3q6.mongodb.net/?retryWrites=true&w=majority"
+    },
+    "jwt": {
+        "secret" : "Examination Portal Application"
+    },
+    "mail-credentials" : {
+        "userid" :"majorprojectfirst@gmail.com",
+        "password" : "Major@123"
+    }
+}
